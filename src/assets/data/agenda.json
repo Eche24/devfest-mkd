@@ -1,0 +1,60 @@
+[
+    {
+        "time":"09.00 AM - 09.45 AM",
+        "detail":"Registration",
+        "name":"john olu",
+         "desc": "javascript is  a scripting......",
+         "duration":"40min"
+    },
+    {
+        "time":"10.00 AM - 10.15 AM",
+        "detail":"",
+        "name":"organizing team",
+         "desc": "welcome note",
+         "duration":"40min"
+    },
+    {
+        "time":"10.15 AM - 11.00 AM",
+        "detail":"Session 1",
+        "name":"john olu",
+         "desc": "javascript is  a scripting......",
+         "duration":"40min"
+    },
+    {
+         "time":"11.00 AM - 12.00 PM",
+         "detail":"Session 2",
+         "name":"john olu",
+         "desc": "javascript is  a scripting......",
+         "duration":"40min"
+    },
+    {
+        "time":"12.00 PM - 01.00 PM",
+        "detail":"break",
+        "name":"john olu",
+         "desc": "javascript is  a scripting......",
+         "duration":"40min"
+    },
+    {
+        "time":"01.00 PM - 02.00 PM",
+        "detail":"Session 4",
+         "name":"john olu",
+         "desc": "javascript is  a scripting......",
+         "duration":"40min"
+
+    },
+    {
+        "time":"03.00 PM - 04.00 PM",
+        "detail":"Session 5",
+        "name":"john olu",
+         "desc": "javascript is  a scripting......",
+         "duration":"40min"
+    },
+    {
+        "time":"04.00 PM - 05.00 PM ",
+        "detail":"Session 6",
+        "name":"john olu",
+         "desc": "javascript is  a scripting......",
+         "duration":"40min"
+    }
+
+]
