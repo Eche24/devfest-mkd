@@ -17,6 +17,13 @@
         </v-flex>
       </v-layout>
     </v-container>
+      <v-container fluid style="background: #466368;  background: linear-gradient(to right, #a1d3b0, #f6f1d3);"   class="hidden-sm-and-down">
+      <v-layout wrap align-center justify-center row fill-height>
+        <v-flex xs12 md10 class="">
+          <Stat />
+        </v-flex>
+      </v-layout>
+    </v-container>
 
     <v-container fluid style="background-color:#F9F9F9" >
       <v-layout wrap align-center justify-center row fill-height>
@@ -76,6 +83,7 @@
   import WhatCanYou  from '@/components/home/whatCanYou'
   import partners from '@/components/home/partners'
   import Location from '@/components/home/location'
+  import Stat from '@/components/home/stat'
   
   export default {
     components: {
@@ -86,7 +94,8 @@
       Share,
       WhatCanYou,
       partners,
-      Location
+      Location,
+      Stat
     }
   }
 </script>

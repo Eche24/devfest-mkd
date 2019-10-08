@@ -28,7 +28,7 @@
 
 
     <CoreToolbar/>
-    <!-- <CoreDrawer/> -->
+    <CoreDrawer/>
     <CoreView/>
     
     <CoreFooter/>

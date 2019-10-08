@@ -6,11 +6,11 @@
     scroll-off-screen
     style=" box-shadow: #ffffff0a 1px 1px 1px;"
   >
-    <!-- <v-toolbar-side-icon
+    <v-toolbar-side-icon
       class="hidden-md-and-up"
       @click="toggleDrawer"
 
-    /> -->
+    />
      <img src="@/assets/img/logo.png" width="40vh"/>
     <v-toolbar-title class="ml-0 pl-1 mr-1">
       <span class="google-font" style="color:#00695C;font-weight: 400;" dark>{{ChapterDetails.ChapterName}}</span>

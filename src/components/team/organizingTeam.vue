@@ -16,7 +16,7 @@
                         
                     >
                         <v-list-tile-avatar>
-                            <img :src="getImgUrl(item.profileImage)" >
+                            <img :src="getImgUrl(item.profileImage)"  >
                         </v-list-tile-avatar>
 
                         <v-list-tile-content>

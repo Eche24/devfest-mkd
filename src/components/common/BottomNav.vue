@@ -5,7 +5,7 @@
       :value="true"
       app
       color="white"
-      class="elevation-2"
+      class="elevation-2 "
       
     >
       <v-btn

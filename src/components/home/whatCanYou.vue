@@ -40,16 +40,16 @@
       return {
         items: [
           {
-            src: '',
+            src: 'https://firebasestorage.googleapis.com/v0/b/gdg-makurdi.appspot.com/o/hero.gif?alt=media&token=51c52a4c-3dea-4bd3-8c0d-e1f7794dd987',
           },
           {
-            src: '',
+            src: "https://firebasestorage.googleapis.com/v0/b/gdg-makurdi.appspot.com/o/gdg.png?alt=media&token=0e99d08a-625d-4e32-918b-e293b66ee80f",
           },
           {
-            src: '',
+            src: 'https://firebasestorage.googleapis.com/v0/b/gdg-makurdi.appspot.com/o/hero.gif?alt=media&token=51c52a4c-3dea-4bd3-8c0d-e1f7794dd987',
           },
           {
-            src: '',
+            src: 'https://firebasestorage.googleapis.com/v0/b/gdg-makurdi.appspot.com/o/gdg-makurdi-cover.jpg?alt=media&token=4cc330c1-0290-4888-8db0-f6366dc24837',
           },
         ],
       }
