@@ -1,38 +1,38 @@
 [
     {
-        "name":"Name",
+        "name":"pius Aboyi",
         "designation":"organizer",
         "twitter":"https://twitter.com/",
         "linkedin":"https://www.linkedin.com/",
         "github":"https://github.com/",
-        "profileImage":"spong.jpg",
+        "profileImage":"pius.jpg",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"organizer",
+        "name":"Moses",
+        "designation":"Co-organizer",
         "twitter":"https://twitter.com/",
         "linkedin":"https://www.linkedin.com/",
         "github":"https://github.com/",
-        "profileImage":"",
+        "profileImage":"moses.jpg",
         "website":""
     },
     {
         "name":"Name",
-        "designation":"organizer",
+        "designation":"co-organizer",
         "twitter":"https://twitter.com/",
         "linkedin":"https://www.linkedin.com/",
         "github":"https://github.com/",
-        "profileImage":"",
+        "profileImage":"favour.jpg",
         "website":""
     },
     {
         "name":"Name",
-        "designation":"Management",
+        "designation":"Co-organizer",
         "twitter":"",
         "linkedin":"https://www.linkedin.com/",
         "github":"",
-        "profileImage":"",
+        "profileImage":"eko.jpg",
         "website":""
     }
 ]

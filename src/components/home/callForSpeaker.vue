@@ -29,8 +29,8 @@
           outline
           class="ml-0 center"
           dark
-          large
-        >call for a speaker</v-btn>
+          
+        >see list speaker</v-btn>
       </v-flex>
     </v-layout>
   </v-container>
