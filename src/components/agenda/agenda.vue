@@ -66,22 +66,22 @@ export default {
     data() {
         return {
             tab: null,       
-            agenda: []
+            // agenda: []
         }
     },
-  created () {
-    db.collection('agenda').onSnapshot(res => {
-      const changes = res.docChanges();
+  // created () {
+  //   db.collection('agenda').onSnapshot(res => {
+  //     const changes = res.docChanges();
 
-      changes.forEach(change => {
-        if (change.type === 'added'){
-          this.agenda.push({
-            ...change.doc.data(),
-            id: change.doc.id
-          })
-        }
-      })
-    })
-  }
+  //     changes.forEach(change => {
+  //       if (change.type === 'added'){
+  //         this.agenda.push({
+  //           ...change.doc.data(),
+  //           id: change.doc.id
+  //         })
+  //       }
+  //     })
+  //   })
+  // }
 }
 </script>

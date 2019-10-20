@@ -12,7 +12,7 @@
 
   
 
-    <v-container fluid class="" style="background-color:#F9F9F9" >
+    <v-container fluid class="" style="background-color:#fafafa;" >
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class="">
           <speaker/>

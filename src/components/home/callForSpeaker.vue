@@ -21,7 +21,7 @@
           if you would like to be a speaker or do a showcase for your organize contact us</p>
     
         <v-btn
-          :href="chapterDetails.GDGProgramWebsite"
+          :href="chapterDetails.speakerList"
           target="_blank"
           round
           color="green"
