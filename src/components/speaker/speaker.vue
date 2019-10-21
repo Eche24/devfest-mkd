@@ -3,7 +3,7 @@
     <!-- <h1 class="subheading blue--text">coming soon</h1> -->
     <v-layout row wrap fill-height>
       <v-flex xs12 sm6 md6 lg4 v-for="person in speakers2019" :key="person.id">
-        <v-card class="text-xs-center ma-3 mx-auto" max-width="344" height=400>
+        <v-card class="text-xs-center ma-3 mx-auto" max-width="344" height=400 >
           <v-responsive class="pt-4">
             <v-avatar size="150" class="grey lighten-2">
               <v-img :src="person.speakerImage" :lazy-src="person.speakerImage">

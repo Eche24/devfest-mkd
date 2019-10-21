@@ -16,7 +16,7 @@
 
             </v-flex>
             <v-row class="">
-                <v-btn :href="chapterDetails.ChapterMeetupLink" target="_blank" class="ma-0 google-font elevation-1 " color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white" >Register for event</v-btn>
+                <v-btn :href="chapterDetails.register" target="_blank" class="ma-0 google-font elevation-1 " color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white" >Register for event</v-btn>
             </v-row>
         </v-layout>
 

@@ -7,8 +7,8 @@
     "website":"https://gdgMakurdi.com",
     "GDGProgramWebsite":"https://developers.google.com/programs/community/",
      "speakerList":"https://devfest-gdgmakurdi.firebaseapp.com/speaker",
-    "feedback" :"/",
-    "register":"/",
+    "feedback" :"",
+    "register":"http://bit.ly/devfestmkd2019",
      "speaker": "/",
     "ChapterHashTags":["GDGMakurdi","DevFestMkd","DevFest19"],
     "socialLinks":[
