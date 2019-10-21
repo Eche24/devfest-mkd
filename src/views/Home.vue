@@ -51,9 +51,9 @@
       </v-layout>
     </v-container>
   
-    <v-container fluid  style="background-color:#F9F9F9">
+    <v-container fluid >
       <v-layout wrap align-start justify-start row fill-height>
-        <v-flex xs12 md10 >
+        <v-flex xs12 md12 >
           <location />
         </v-flex>
       </v-layout>
