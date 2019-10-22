@@ -8,9 +8,8 @@
 
                           The motive is to create a local ecosystem of Developers 
                              and give them a platform to Interact and Network. 
-                             We talk about various cutting-edge technologies. .</p>
+                             We talk about various cutting-edge technologies.</p>
 
-           
                 <span v-for="(item,i) in whatWeDoData" :key="i">
                     <v-tooltip bottom>
                         <template v-slot:activator="{ on }" >

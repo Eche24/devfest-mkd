@@ -12,7 +12,6 @@
         v-for="(item,i) in TeamDetails"
         :key="i"
         class="text-xs-center"
-        style="text-align:center;border: 1px solid #e0e0e0;min-height:120px;border-radius:5px; margin-right:19px; margin-bottom:10px;"
       >
         <div class="text-xs-center ma-1 pa-1 py-2 my-0">
           <v-avatar size="130" tile="tile">

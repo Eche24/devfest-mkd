@@ -3,7 +3,7 @@
     <!-- <h1 class="subheading blue--text">coming soon</h1> -->
     <v-layout row wrap fill-height>
       <v-flex xs12 sm6 md6 lg4 v-for="person in speakers2019" :key="person.id">
-        <v-card class="text-xs-center ma-3 mx-auto" max-width="344" height=400 >
+        <v-card class="text-xs-center ma-3 mx-auto" max-width="344" height=370 >
           <v-responsive class="pt-4">
             <v-avatar size="150" class="grey lighten-2">
               <v-img :src="person.speakerImage" :lazy-src="person.speakerImage">
@@ -15,14 +15,14 @@
           </v-responsive>
           <v-card-text>
             <div class="subheading google-font">{{person.speakerName}}</div>
-            <div class="blue--text google-font">{{person.speakerDesc}}</div>
+            <div class="grey--text font-weight-medium google-font">{{person.speakerDesc}}</div>
 
-            <div class="grey--text text-xs-left font-weight-medium google-font" >{{person.speakerSession}}</div>
+            <div class="blue-grey--text text-xs-center font-weight-light google-font" >{{person.speakerSession}}</div>
 
-            <v-chip color="teal lighten-3" class="mt-2" outline small>
+            <!-- <v-chip color="teal lighten-3" class="mt-2" outline small>
               <span> Talk time :</span>
               <span class="teal--text google-font" >{{person.time}} </span>
-            </v-chip>
+            </v-chip> -->
           </v-card-text>
 
           <v-btn class="mt-0 mx-0" icon :href="person.twitterUrl" target="_blank">

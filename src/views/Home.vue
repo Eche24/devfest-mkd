@@ -12,23 +12,23 @@
     
     <v-container fluid class="">
       <v-layout wrap align-center justify-center row fill-height class="">
-        <v-flex xs12 md10 >
+        <v-flex xs12 md9 >
           <About />
         </v-flex>
       </v-layout>
     </v-container>
-      <v-container fluid style="background: #466368;  background: linear-gradient(to right, #a1d3b0, #f6f1d3);"   class="hidden-sm-and-down">
+      <v-container fluid style="background: #466368;  background: linear-gradient(to right, #a1d3b0, #f6f1d3);"   >
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class="">
           <Stat />
         </v-flex>
       </v-layout>
     </v-container>
-
-    <v-container fluid style="background-color:#F9F9F9" >
+<!-- class="hidden-sm-and-down" -->
+    <v-container fluid style="background-color:#F9F9F9"   >
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class="">
-          <whatWeDo />
+          <!-- <whatWeDo /> -->
            <WhatCanYou />
         </v-flex>
       </v-layout>

@@ -19,7 +19,7 @@
            class="google-font"
           style="font-size:120%"
             
-          >Share your experience at <b> DevFest '19 </b>and what you loved/ did not love about the event.  </p>
+          >Share your experience at <b> DevFest Makurdi 19 </b>and what you loved/ did not love about the event.  </p>
         <p
           class="google-font"
           style="font-size:110%"

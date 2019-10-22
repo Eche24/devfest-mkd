@@ -1,38 +1,38 @@
 [
-    {
-        "name":"pius Aboyi",
-        "designation":"organizer",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"pius.jpg",
-        "website":""
-    },
-    {
-        "name":"Moses",
-        "designation":"Co-organizer",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"moses.jpg",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"co-organizer",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"favour.jpg",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Co-organizer",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"",
-        "profileImage":"eko.jpg",
-        "website":""
-    }
+  {
+    "name": "pius Aboyi",
+    "designation": "organizer",
+    "twitter": "https://twitter.com/ea_pius",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "pius.jpg",
+    "website": ""
+  },
+  {
+    "name": "Amama Moses Anslem",
+    "designation": "Co-organizer",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/amama-moses-anslem-4a33a4162",
+    "github": "https://github.com/amacodes4",
+    "profileImage": "moses.jpg",
+    "website": ""
+  },
+  {
+    "name": "Godwin Valerie",
+    "designation": "co-organizer",
+    "twitter": "https://twitter.com/GodwinValerie1",
+    "linkedin": "https://www.linkedin.com/in/godwin-valerie-534696165",
+    "github": "",
+    "profileImage": "favour.jpg",
+    "website": ""
+  },
+  {
+    "name": "Eko Uko Onaji",
+    "designation": "Co-organizer",
+    "twitter": "https://twitter.com/Eko_uko_onaji",
+    "linkedin": "https://www.linkedin.com/in/eko-uko-onaji-62a538153",
+    "github": "https://github.com/Ekoligh",
+    "profileImage": "eko.jpg",
+    "website": ""
+  }
 ]

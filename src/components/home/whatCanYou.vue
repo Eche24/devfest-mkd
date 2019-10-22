@@ -43,13 +43,16 @@
             src: 'https://firebasestorage.googleapis.com/v0/b/gdg-makurdi.appspot.com/o/hero.gif?alt=media&token=51c52a4c-3dea-4bd3-8c0d-e1f7794dd987',
           },
           {
-            src: "https://firebasestorage.googleapis.com/v0/b/gdg-makurdi.appspot.com/o/gdg.png?alt=media&token=0e99d08a-625d-4e32-918b-e293b66ee80f",
+            src: "https://firebasestorage.googleapis.com/v0/b/gdg-makurdi.appspot.com/o/1%20yBalrOqUPvlsYIJcYU7jAw.jpeg?alt=media&token=280aa682-5ae8-48fa-801d-ffc9a602c2c0",
           },
           {
-            src: 'https://firebasestorage.googleapis.com/v0/b/gdg-makurdi.appspot.com/o/hero.gif?alt=media&token=51c52a4c-3dea-4bd3-8c0d-e1f7794dd987',
+            src:"https://firebasestorage.googleapis.com/v0/b/gdg-makurdi.appspot.com/o/1%20B0W0VXmfpE8SmzdoTQ73-w.jpeg?alt=media&token=e7fae1ad-ad9f-4a42-b7b9-ab319ce23f0f"
           },
           {
             src: 'https://firebasestorage.googleapis.com/v0/b/gdg-makurdi.appspot.com/o/gdg-makurdi-cover.jpg?alt=media&token=4cc330c1-0290-4888-8db0-f6366dc24837',
+          },
+          {
+             src:'https://firebasestorage.googleapis.com/v0/b/gdg-makurdi.appspot.com/o/1%20oO1rvsPmK0WmwoFw1QaGWg.jpeg?alt=media&token=c0e3bfdd-d066-41e7-89d7-a3b3720c3f0d'
           },
         ],
       }
