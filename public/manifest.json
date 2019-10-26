@@ -1,6 +1,6 @@
 {
-  "name": "GDG devfest Web App",
-  "short_name": "devfest mkd Web App",
+  "name": "devfest makurdi 2019",
+  "short_name": "devfest mkd 2019",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
@@ -17,5 +17,5 @@
   "display": "standalone",
   "background_color": "#ffff",
   "theme_color": "#0277bd",
-  "description": "Aura is the website template that helps you to set GDG's Communities website with events, team and management in a few minutes."
+  "description": ""
 }

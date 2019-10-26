@@ -1,7 +1,7 @@
 <template>
   <v-container class="pa-0">
     <v-layout wrap align-center justify-center row fill-height>
-      <v-flex xs12 sm5 md3 lg3 xl3 class="text-xs-center pa-3" pl-2>
+      <v-flex xs12 sm5 md3 lg3 xl3 class="text-xs-center pa-3 hidden-sm-and-down" pl-2>
         <v-img
           :src="require('@/assets/img/gdg.jpg')"
           :lazy-src="require('@/assets/img/gdg.jpg')"

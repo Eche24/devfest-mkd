@@ -1,92 +1,103 @@
 [
-    {
-        "name":"name",
-        "designation":"volunteer",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/in/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"name",
-        "designation":"volunteer",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/in/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"eche ngbede",
-        "designation":"volunteer",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"eche.jpeg",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"volunteer",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/in/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"volunteer",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/in/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"volunteer",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"volunteer",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/in/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"volunteer",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/in/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"volunteer",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/in/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"volunteer",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/in/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    }
+  {
+    "name": "Ujah Emmanuel",
+    "designation": "volunteer",
+    "twitter": "https://twitter.com/@logiquecoder",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "ujah.jpeg",
+    "website": ""
+  },
+  {
+    "name": "Ulagh Fabian",
+    "designation": "volunteer",
+    "twitter": "https://twitter.com/@fabianulahg",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "fabian.jpeg",
+    "website": ""
+  },
+
+  {
+    "name": "James Adakole",
+    "designation": "volunteer",
+    "twitter": "https://twitter.com/@jacreator",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "james.jpeg",
+    "website": ""
+  },
+  {
+    "name": "Emmanuel Nombagu",
+    "designation": "volunteer",
+    "twitter": "https://twitter.com/@EmmyloveNombagu",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "EmmyloveNombagu.jpeg",
+    "website": ""
+  },
+  {
+    "name": " Edwin Abdullahi ",
+    "designation": "volunteer",
+    "twitter": "https://twitter.com/@abdullahiedwina",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "Edwin.jpeg",
+    "website": ""
+  },
+  {
+    "name": "Ikpambese Benjamin",
+    "designation": "volunteer",
+    "twitter": "https://twitter.com/@EmpirezThrown",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "benjamin.jpeg",
+    "website": ""
+  },
+  {
+    "name": "Kyegh Benedicta",
+    "designation": "volunteer",
+    "twitter": "https://twitter.com/@KyeghM",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "mule.jpeg",
+    "website": ""
+  },
+  {
+    "name": "Onyeonagu Chisom ",
+    "designation": "volunteer",
+    "twitter": "https://twitter.com/@ephraim_hope",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "chisom.jpeg",
+    "website": ""
+  },
+  {
+    "name": "Umeh Priscillia ",
+    "designation": "volunteer",
+    "twitter": "https://twitter.com/@pricyhits15",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "umeh.jpeg",
+    "website": ""
+  }
+  ,
+  {
+    "name": "Eche Ngbede",
+    "designation": "volunteer",
+    "twitter": "https://twitter.com/@echengbede",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "ec.jpeg",
+    "website": ""
+  },
+  {
+    "name": "Onjewu Victoria Olije",
+    "designation": "volunteer",
+    "twitter": "https://twitter.com/@OnjewuV",
+    "linkedin": "",
+    "github": "",
+    "profileImage": "vic.jpeg",
+    "website": ""
+  }
 ]

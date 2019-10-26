@@ -1,0 +1,34 @@
+[debug] [2019-10-23T18:55:27.291Z] ----------------------------------------------------------------------
+[debug] [2019-10-23T18:55:27.299Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\eche\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy --only hosting:devfestmkd
+[debug] [2019-10-23T18:55:27.300Z] CLI Version:   7.2.4
+[debug] [2019-10-23T18:55:27.300Z] Platform:      win32
+[debug] [2019-10-23T18:55:27.300Z] Node Version:  v10.15.1
+[debug] [2019-10-23T18:55:27.308Z] Time:          Wed Oct 23 2019 19:55:27 GMT+0100 (West Africa Standard Time)
+[debug] [2019-10-23T18:55:27.308Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-10-23T18:55:27.356Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-10-23T18:55:27.359Z] > authorizing via signed-in user
+[debug] [2019-10-23T18:55:27.360Z] [iam] checking project devfestmakurdi for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2019-10-23T18:55:27.366Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2019-10-23T18:55:27.367Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2019-10-23T18:55:28.302Z] <<< HTTP RESPONSE 200
+[debug] [2019-10-23T18:55:28.319Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/devfestmakurdi:testIamPermissions  
+
+[debug] [2019-10-23T18:55:29.855Z] <<< HTTP RESPONSE 200
+[debug] [2019-10-23T18:55:29.860Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/devfestmakurdi  
+ 
+[debug] [2019-10-23T18:55:52.262Z] Server Error. connect ETIMEDOUT 172.217.19.202:443
+[debug] [2019-10-23T18:55:53.004Z] FirebaseError: Server Error. connect ETIMEDOUT 172.217.19.202:443
+    at Request._callback (C:\Users\eche\AppData\Roaming\npm\node_modules\firebase-tools\lib\api.js:30:31)
+    at self.callback (C:\Users\eche\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:189:13)
+    at Request.EventEmitter.emit (domain.js:441:20)
+    at Request.onRequestError (C:\Users\eche\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\request\request.js:881:8)
+    at ClientRequest.emit (events.js:194:15)
+    at ClientRequest.EventEmitter.emit (domain.js:441:20)
+    at TLSSocket.socketErrorListener (_http_client.js:392:9)
+    at TLSSocket.emit (events.js:189:13)
+    at TLSSocket.EventEmitter.emit (domain.js:441:20)
+[error] 
+[error] Error: Failed to get Firebase project devfestmakurdi. Please make sure the project exists and your account has permission to access it.

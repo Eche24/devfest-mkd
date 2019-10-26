@@ -10,7 +10,7 @@
                     </span>
                 </p>
                                
-                <p class="google-font" style="font-size:120%">{{chapterDetails.ChapterShortDescription}}<br>
+                <p class="google-font" style="font-size:125%">{{chapterDetails.ChapterShortDescription}}<br>
                 Join us on <b>, 26 October, 2019 at HealthyWays Kitchen and Grill Kashim Ibrahim Road, Makurdi, Benue State,</b> for a day filled with amazing Tech talks and demos.              
                 </p>           
 

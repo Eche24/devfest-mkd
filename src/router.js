@@ -41,5 +41,11 @@ export default new Router({
       name: 'speaker',
       component: () => import('./views/Speaker.vue')
     }
+    ,
+    {
+      path: '/admin',
+      name: 'admin',
+      component: () => import('./views/admin.vue')
+    }
   ]
 })
