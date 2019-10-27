@@ -24,10 +24,10 @@
           class="google-font"
           style="font-size:110%"
         >We would be looking forward to hearing your DevFest Stories and how that has shaped your actions, work, passion and maybe life in general. Made some amazing friends at DevFest? Tell us about that</p>
-        <v-btn  :href="ChapterDetails.feedback
-" target="_blank" 
-class="ma-0 google-font elevation-1"
- color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white"> give us feedback</v-btn>
+        <!-- <v-btn  :href="ChapterDetails.feedback
+    " target="_blank" 
+    class="ma-0 google-font elevation-1"
+      color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white"> give us feedback</v-btn> -->
       </v-flex>
     
       
